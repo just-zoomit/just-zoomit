@@ -48,6 +48,8 @@ Happy Coding 🥳
     <a href="https://github.com/search?q=user%3ASubhadeepZilong+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ASubhadeepZilong+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ASubhadeepZilong+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+ 
+ <hr/>
 
 ### 🧰 Frameworks and libraries
 
@@ -56,12 +58,16 @@ Happy Coding 🥳
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
+<hr/>
+
 ### 🗄️ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
 </p>
+
+<hr/>
 
 ### 💻 Software and tools
 
@@ -75,6 +81,8 @@ Happy Coding 🥳
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
    
 </p>
+
+<hr/>
 
 ### **DevOps Tools**
 
