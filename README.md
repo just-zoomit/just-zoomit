@@ -15,7 +15,7 @@
 
 - Goucher College
 - 2014-2018
-- I’m currently Zoom Developer Advocate Engineer
+- Zoom Developer Advocate Engineer
 
 
 ##
