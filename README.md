@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Donte Small</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, There,</h1>
 
 
 Developer Advocate committed to keeping developers motivated, focused, and creative. As a creator and developer myself, I am passionate about making it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important real-time collaboration technologies. Whether a person is brand new to coding, a maker, a hobbyist working on a personal project, someone contributing to open source, a team launching their first startup, or someone working as part of a group in a large enterprise - they are a developer and I want to support them in making awesome things. 
