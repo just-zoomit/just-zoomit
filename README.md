@@ -4,7 +4,11 @@
 
 ### Hi there 👋
 
+Developer Advocate committed to keeping developers motivated, focused, and creative. As a creator and developer myself, I am passionate about making it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important real-time collaboration technologies. Whether a person is brand new to coding, a maker, a hobbyist working on a personal project, someone contributing to open source, a team launching their first startup, or someone working as part of a group in a large enterprise - they are a developer and I want to support them in making awesome things. 
 
+At Zoom, I foster collaborative communities that come together—as individuals and in teams—to create the future of video-first communication and make a difference in the world. Feel welcome to drop me a message or connect with me on the Zoom Developer Forum for support with building something you believe in for the World. 
+
+Happy Coding 🥳
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
 
