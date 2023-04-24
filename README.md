@@ -75,7 +75,56 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+### **DevOps Tools**
 
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")](https://github.com/DanielDallas?tab=repositories)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")](https://github.com/DanielDallas?tab=repositories)
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white "Apache")](https://github.com/DanielDallas?tab=repositories)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white "Nginx")](https://github.com/DanielDallas?tab=repositories)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")](https://github.com/DanielDallas?tab=repositories)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")](https://github.com/DanielDallas?tab=repositories)
+
+<hr/>
+
+### **Mobile Development**
+
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/DanielDallas?tab=repositories)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter")](https://github.com/DanielDallas?tab=repositories)
+
+
+<hr />
+
+### **Backend Technologies**
+
+[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")](https://github.com/DanielDallas?tab=repositories)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")](https://github.com/DanielDallas?tab=repositories)
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
+[![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")](https://github.com/DanielDallas?tab=repositories)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")](https://github.com/DanielDallas?tab=repositories)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")](https://github.com/DanielDallas?tab=repositories)
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101 "Socket.io")](https://github.com/DanielDallas?tab=repositories)
+
+
+<hr />
+
+
+### **Clouds**
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")](https://github.com/DanielDallas?tab=repositories)
+[![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")](https://github.com/DanielDallas?tab=repositories)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")](https://github.com/DanielDallas?tab=repositories)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")](https://github.com/DanielDallas?tab=repositories)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")](https://github.com/DanielDallas?tab=repositories)
+
+<hr/>
+
+### **Code Editor & IDEs**
+
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")](https://github.com/DanielDallas?tab=repositories)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
+
+<hr/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
